@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    display: none;
+    padding: 20px 0;
+}
+
+section.active {
+    display: block;
+}
