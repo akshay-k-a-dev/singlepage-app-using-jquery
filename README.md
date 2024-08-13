@@ -1,6 +1,3 @@
-Certainly! Here's a basic template for a README file for your single-page application using jQuery. You can customize it as needed:
-
-```markdown
 # Single Page Application Using jQuery
 
 This repository contains a simple single-page application (SPA) built using jQuery. The application demonstrates navigation between different pages using jQuery and provides a basic structure for SPAs.
@@ -122,6 +119,3 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Feel free to adjust the content to match the specifics of your project. Once you're satisfied with the README, save it as `README.md` in the root directory of your repository.
