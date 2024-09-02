@@ -13,7 +13,7 @@ This repository contains a simple single-page application (SPA) built using jQue
 
 ## Demo
 
-You can see a live demo of the application [here](https://your-demo-url.com).
+You can see a live demo of the application [here](https://akshay-k-a-dev.github.io/singlepage-app-using-jquery/).
 
 ## Features
 
